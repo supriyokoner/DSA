@@ -14,6 +14,7 @@ I’m continuously solving problems and tracking my progress here.
 |----|----------------------------------------|------------|----------------------------------------|
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum) | Easy       | [two_sum.java](Easy/two_sum.java)     |
 | 2  | [Three Sum](https://leetcode.com/problems/3sum/) | Medium     | [three_sum.java](Medium/three_sum.java)
+| 3  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| Medium |
 > ✅ This table will grow as I solve more problems.
 
 ---
