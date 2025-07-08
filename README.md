@@ -21,6 +21,7 @@ I’m continuously solving problems and tracking my progress here.
 | 7  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/ContainerWithMostWater.java]    |
 | 8  | [Trapping RainWater](https://leetcode.com/problems/trapping-rain-water/) | Hard  | [https://github.com/supriyokoner/DSA/blob/main/Trapping_Rainwater.java]    |
 | 9  | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/Next_Permutation.java]    |
+| 10 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/Product_ExceptSelf.java]    |
 > ✅ This table will grow as I solve more problems.
 
 ---
