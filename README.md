@@ -22,6 +22,10 @@ I’m continuously solving problems and tracking my progress here.
 | 8  | [Trapping RainWater](https://leetcode.com/problems/trapping-rain-water/) | Hard  | [https://github.com/supriyokoner/DSA/blob/main/Trapping_Rainwater.java]    |
 | 9  | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/Next_Permutation.java]    |
 | 10 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/Product_ExceptSelf.java]    |
+| 11 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/Spiral_Matrix.java]  |
+| 12 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/Find_Duplicate.java]  |
+| 13 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/Beautiful_Array.java]  |
+| 14 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/RotatedSorted_Array.java]  |
 > ✅ This table will grow as I solve more problems.
 
 ---
