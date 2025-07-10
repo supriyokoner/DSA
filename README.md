@@ -26,6 +26,8 @@ I’m continuously solving problems and tracking my progress here.
 | 12 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/Find_Duplicate.java]  |
 | 13 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/Beautiful_Array.java]  |
 | 14 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/RotatedSorted_Array.java]  |
+| 15 | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/Find_Duplicate.java]  |
+| 16 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium  | [https://github.com/supriyokoner/DSA/blob/main/SingleElement_inSortedArray.java]  |
 > ✅ This table will grow as I solve more problems.
 
 ---
