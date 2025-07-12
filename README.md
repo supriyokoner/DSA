@@ -16,10 +16,10 @@ I’m continuously solving problems and tracking my progress here.
 
 | # | Problem Name | Difficulty | Solution File |
 |---|--------------|------------|----------------|
-| 1 | [Two Sum](https://github.com/supriyokoner/DSA/blob/main/two_sum.java) | Easy | [Link](https://github.com/supriyokoner/DSA/blob/main/two_sum.java) |
-| 2 | [Three Sum](https://github.com/supriyokoner/DSA/blob/main/three_sum.java) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/three_sum.java) |
-| 3 | [Sort Colors](https://github.com/supriyokoner/DSA/blob/main/Sort_Colors.java) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Sort_Colors.java) |
-| 4 | [Product of Array Except Self](https://github.com/supriyokoner/DSA/blob/main/Product_ExceptSelf.java) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Product_ExceptSelf.java) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Link](https://github.com/supriyokoner/DSA/blob/main/two_sum.java) |
+| 2 | [Three Sum](https://leetcode.com/problems/3sum/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/three_sum.java) |
+| 3 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Sort_Colors.java) |
+| 4 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Product_ExceptSelf.java) |
 | 5 | [Find the Duplicate](https://github.com/supriyokoner/DSA/blob/main/Find_Duplicate.java) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Find_Duplicate.java) |
 | 6 | [Container With Most Water](https://github.com/supriyokoner/DSA/blob/main/ContainerWithMostWater.java) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/ContainerWithMostWater.java) |
 | 7 | [Trapping RainWater](https://github.com/supriyokoner/DSA/blob/main/Trapping_Rainwater.java) | Hard | [Link](https://github.com/supriyokoner/DSA/blob/main/Trapping_Rainwater.java) |
@@ -44,6 +44,24 @@ I’m continuously solving problems and tracking my progress here.
 | 2 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium  | [Link](https://github.com/supriyokoner/DSA/blob/main/SingleElement_inSortedArray.java)  |
 | 3 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium  | [Link](https://github.com/supriyokoner/DSA/blob/main/RotatedSorted_Array.java)  |
 | 4 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium  | [Link](https://github.com/supriyokoner/DSA/blob/main/Peak_Index.java)  |
+
+</details>
+
+---
+
+## 🔤 Strings
+<details>
+<summary>Click to expand</summary>
+
+| # | Problem Name | Difficulty | Solution File |
+|---|--------------|------------|----------------|
+| 1 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Link](https://github.com/supriyokoner/DSA/blob/main/Valid_Palindrome.java) |
+| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Link](https://github.com/supriyokoner/DSA/blob/main/Valid_Anagram.java)  |
+| 3 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Reverse_Words.java)  |
+| 4 | [Remove all Occurrences](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Remove_Occurrences.java)  |
+| 5 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Check_Inclusion.java)  |
+| 6 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/String_Compression.java)  |
+
 
 </details>
 
