@@ -61,11 +61,26 @@ I’m continuously solving problems and tracking my progress here.
 | 4 | [Remove all Occurrences](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Remove_Occurrences.java)  |
 | 5 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Check_Inclusion.java)  |
 | 6 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/String_Compression.java)  |
+| 7 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Group_Anagrams.java)  |
 
 
 </details>
 
 ---
-> ✅ This table will grow as I solve more problems.
+
+## 🔙 Backtracking
+<details>
+<summary>Click to expand</summary>
+
+| # | Problem Name | Difficulty | Solution File |
+|---|--------------|------------|----------------|
+| 1 | [Combination Sum 1](https://leetcode.com/problems/combination-sum/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/CombinationSum.java) |
+| 2 | [Combination Sum 2](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/CombinationSum2.java)  |
+| 3 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Palindrome_Partitioning.java)  |
+
+</details>
+
+---
+✅ This table will grow as I solve more problems.
 
 ---
