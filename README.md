@@ -77,6 +77,8 @@ I’m continuously solving problems and tracking my progress here.
 | 1 | [Combination Sum 1](https://leetcode.com/problems/combination-sum/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/CombinationSum.java) |
 | 2 | [Combination Sum 2](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/CombinationSum2.java)  |
 | 3 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Palindrome_Partitioning.java)  |
+| 4 | [N Queens](https://leetcode.com/problems/n-queens/) | Hard | [Link](https://github.com/supriyokoner/DSA/blob/main/N_Queens.java)  |
+| 5 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [Link](https://github.com/supriyokoner/DSA/blob/main/Sudoku_Solver.java)  |
 
 </details>
 
