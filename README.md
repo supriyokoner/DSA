@@ -79,6 +79,19 @@ I’m continuously solving problems and tracking my progress here.
 | 3 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Palindrome_Partitioning.java)  |
 | 4 | [N Queens](https://leetcode.com/problems/n-queens/) | Hard | [Link](https://github.com/supriyokoner/DSA/blob/main/N_Queens.java)  |
 | 5 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [Link](https://github.com/supriyokoner/DSA/blob/main/Sudoku_Solver.java)  |
+| 6 | [N Queens II](https://leetcode.com/problems/n-queens-ii/description/) | Hard | [Link](https://github.com/supriyokoner/DSA/blob/main/N_Queens2.java)  |
+
+</details>
+
+---
+
+## 🔗 Linked List
+<details>
+<summary>Click to expand</summary>
+
+| # | Problem Name | Difficulty | Solution File |
+|---|--------------|------------|----------------|
+| 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Link](https://github.com/supriyokoner/DSA/blob/main/ListNode.java)  |
 
 </details>
 
